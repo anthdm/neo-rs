@@ -1,0 +1,10 @@
+[package]
+name = "neo-rs-cli"
+version = "0.1.0"
+authors = ["Anthony De Meulemeester <anthony@nash.io>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+neo-rs-types = { path = "../neo-rs-types" } 

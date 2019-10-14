@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "neo-rs-cli",
+    "neo-rs-types"
+]
